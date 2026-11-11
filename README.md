@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcelo Matias
 
-### Junior DevOps Engineer · Full-Stack Developer
+### DevOps Engineer · Full-Stack & WordPress Engineer
 
 **Laravel · Nuxt.js · Vue.js · Docker · Nginx · Linux · DigitalOcean**
 
