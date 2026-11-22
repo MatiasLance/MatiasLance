@@ -4,7 +4,7 @@
 
 **Laravel · Nuxt.js · Vue.js · Docker · Docker Compose · Nginx · DigitalOcean · Linux**
 
-I'm a **Junior DevOps Engineer and Full-Stack Web Developer with 4+ years of experience** designing, building, and deploying scalable web applications.
+I'm a **DevOps Engineer and Full-Stack Web Developer with 4+ years of experience** designing, building, and deploying scalable web applications.
 
 My work bridges **application development and infrastructure operations**—from building Laravel APIs and Nuxt.js/Vue.js applications to containerizing environments, configuring Nginx and Nginx Proxy Manager, managing Linux servers, and automating deployments.
 
